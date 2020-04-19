@@ -1,0 +1,13 @@
+parameters:
+	parameters:
+		apiKey: "2966b488e0db7f83"
+		emailFrom: "noreply@koduje.cz"
+		emailTo:
+			-	"mario@nosimtrenky.cz"
+			-	"jarda.maly@gmail.com"
+		packetaCountry: "cz,sk,pl"
+
+database:
+	dsn: 'mysql:host=127.0.0.1;dbname=test'
+	user:
+	password:
