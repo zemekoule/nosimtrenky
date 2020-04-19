@@ -1,6 +1,9 @@
 parameters:
 	parameters:
 		apiKey: "2966b488e0db7f83"
+		apiPassword: ""
+		eshop: ""
+		defaultValue: 1500
 		emailFrom: "noreply@koduje.cz"
 		emailTo:
 			-	"mario@nosimtrenky.cz"
