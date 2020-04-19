@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Presenters;
+namespace FrontModule;
 
 use Nette\Application\UI\Form;
 use Nette\Mail\Message;
